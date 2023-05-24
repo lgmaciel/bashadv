@@ -1,0 +1,26 @@
+1. Desenhe uma árvore de diretórios no seu caderno que represente o mapa do 
+seu adventure/história. Por exemplo:
+
+0 casa 
+   +--patio
+   |
+   +--sala
+   |    +--cozinha
+   |    |
+   |    +--quarto
+   |
+   +--corredor
+        |
+        +--quarto
+        |
+        +--banheiro
+
+2. Dentro de cada diretório você vai criar um arquivo de texto chamado 
+'leia.me'. Esse arquivo de texto conterá uma descrição de o quê há no 
+diretório. Por exemplo:
+
+	banheiro 
+            +-- leia.me
+		"Aqui no banheiro você vê tais e tais coisas... e pode 
+		pegar tais e tais coisas... e pode ir par tal e tal 
+		lugar..."
